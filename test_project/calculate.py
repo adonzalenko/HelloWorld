@@ -14,17 +14,17 @@ t = int(input())
 days = t // 1440
 hours = t // 60 - 24 * days
 
-resulthours = n + hours
-resultminutes = m + (t - t // 60 * 60)
+result_hours = n + hours
+result_minutes = m + (t - t // 60 * 60)
 
-if resulthours > 24:
-    resulthours = resulthours - 24
+if result_hours > 24:
+    result_hours = result_hours - 24
 
-if resultminutes > 60:
-    resultminutes = resultminutes - 60
-    resulthours = resulthours + 1
+if result_minutes > 60:
+    result_minutes = result_minutes - 60
+    result_hours = result_hours + 1
 
-    print(f'{resulthours:0>2}:{resultminutes:0>2}')
+    print(f'{result_hours:0>2}:{result_minutes:0>2}')
 
 else:
-    print(f'{resulthours:0>2}:{resultminutes:0>2}')
+    print(f'{result_hours:0>2}:{result_minutes:0>2}')

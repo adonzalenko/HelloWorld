@@ -26,6 +26,5 @@ if result_minutes > 60:
     result_hours = result_hours + 1
 
     print(f'{result_hours:0>2}:{result_minutes:0>2}')
-
 else:
     print(f'{result_hours:0>2}:{result_minutes:0>2}')

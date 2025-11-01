@@ -50,3 +50,6 @@ if result_minutes >= 60:
     # и округления полной части часов (t // 60).
 
 print(f"{result_hours:0>2}:{result_minutes:0>2}")
+
+
+ 

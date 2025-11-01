@@ -1,3 +1,4 @@
+#работа со строками, форматирование, приведение формата к образцу
 product = str(input())
 cost = int(input())
 weight = int(input())

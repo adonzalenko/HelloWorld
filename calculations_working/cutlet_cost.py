@@ -1,25 +1,22 @@
-#найти вес каждой из двух партий котлет, если известны следующие параметры:
+# найти вес каждой из двух партий котлет, если известны следующие параметры:
 
-N = int(input('Введите общий вес котлет: '))
-M = int(input('Введите стоимость котлет за кг.: '))
-K1 = int(input('Введите стоимость первого вида котлет за кг.: '))
-K2 = int(input('Введите стоимость второго вида котлет за кг.: '))
+total_weight = float(input('Введите общий вес котлет: '))
+avarage_cost = float(input('Введите стоимость котлет за кг.: '))
+first_batch_cost = float(input('Введите стоимость первого вида котлет за кг.: '))
+second_batch_cost = float(input('Введите стоимость второго вида котлет за кг.: '))
 
-C = int(N * M) #Общая стоимость двух партий
+C = total_weight * avarage_cost  # Общая стоимость двух партий
 
-if K1 > K2:
-    N2 = int((C - N * K1) / (K2 - K1)) #расчет веса второй партии котлет
-    N1 = int(N - N2) #расчет веса первой партии котлет
-
-if K1 - K2 == 0: #если стоимость котлет одинаковая
-    N1 = N2 = N // 2
-
+if first_batch_cost == second_batch_cost:  # если стоимость котлет одинаковая
+    first_batch_weight = second_batch_weight = total_weight // 2
+elif first_batch_cost > second_batch_cost:
+    second_batch_weight = (C - total_weight * first_batch_cost) / (
+                second_batch_cost - first_batch_cost)  # расчет веса второй партии котлет
+    first_batch_weight = total_weight - second_batch_weight  # расчет веса первой партии котлет
 else:
-    N1 = int((C - N * K2) / (K1 - K2)) #расчет веса первой партии котлет
-    N2 = int(N - N1) #расчет веса второй партии котлет
+    first_batch_weight = int((C - total_weight * second_batch_cost) / (
+                first_batch_cost - second_batch_cost))  # расчет веса первой партии котлет
+    second_batch_weight = int(total_weight - first_batch_weight)  # расчет веса второй партии котлет
 
-print(f'Вес первой партии котлет {N1} кг.')
-print(f'Вес второй партии котлет {N2} кг.')
-
-
-
+print(f'Вес первой партии котлет {first_batch_weight} кг.')
+print(f'Вес второй партии котлет {second_batch_weight} кг.')

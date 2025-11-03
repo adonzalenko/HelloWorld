@@ -1,10 +1,10 @@
-lenght = 3
-widht = 5
+length = 2
+width = 5
 
-rectangle_area = lenght * widht
-rectangle_perimeter = 2 * (lenght + widht)
+# rectangle_area = length * width
+# rectangle_perimeter = 2 * (length + width)
 
-print(f'Длина прямоугольника {lenght:.2f} см. '
-      f'\nШирина прямоугольника {widht:.2f} см. '
-      f'\nПлощадь прямоугольника {rectangle_area:.2f} см^2.'
-      f'\nПериметр прямоугольника {rectangle_perimeter:.2f} см.')
+print(f'Длина прямоугольника {length:.2f} см. '
+      f'\nШирина прямоугольника {width:.2f} см. '
+      f'\nПлощадь прямоугольника {length * width:.2f} см^2.'
+      f'\nПериметр прямоугольника {2 * (length + width):.2f} см.')

@@ -1,11 +1,11 @@
 # работа со строками, форматирование, приведение формата к образцу
-product = str(input("Введите название продукта: "))
+product = input("Введите название продукта: ")
 cost = float(input("Введите стоимость продукта: "))
 weight = float(input("Введите вес продукта: "))
 money = float(input("Введите размер внесенных средств: "))
 
 cash = cost * weight
-change = float(money - cash)
+change = money - cash
 weight_cost = f'{weight}кг * {cost}руб/кг'
 
 if change < 0:

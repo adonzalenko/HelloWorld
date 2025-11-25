@@ -1,14 +1,19 @@
 age  = int(input("Введите возраст: "))
 remains_age = age % 10
+exclusion_range = 11 <= age % 100 <= 14
+
+if age < 0:
+    print("Введите корректный возраст")
+    exit()
 
 if age < 1:
     print("Вы слишком малы")
 elif age > 112:
     print("Вы слишком стары")
 else:
-    if age == 1 or remains_age == 1:
+    if not exclusion_range and (remains_age == 1):
         print(f"Вам {age} год")
-    elif 1 < age < 5 or 1 < remains_age < 5:
+    elif not exclusion_range and (remains_age in range(2, 5)):
         print(f"Вам {age} года")
     else:
         print(f"Вам {age} лет")

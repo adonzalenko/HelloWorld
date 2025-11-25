@@ -7,7 +7,8 @@ check_year = year % 4
 if day >31 or day <1 or month >12 or month <1 or year <1:
     print("Введите корректную дату")
     exit()
-elif month == 2:
+
+if month == 2:
     if check_year == 0:
         if day > 29:
             print("Введите корректную дату")

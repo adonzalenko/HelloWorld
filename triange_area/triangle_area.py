@@ -7,6 +7,11 @@ place_y2 = float(input("Введите координату оси Y второ�
 place_x3 = float(input("Введите координату оси X третьей точки угла треугольника: "))
 place_y3 = float(input("Введите координату оси Y третьей точки угла треугольника: "))
 
+if math.fabs((place_x1 * (place_y2 - place_y3) + place_x2 * (place_y3 - place_y1)
+              + place_x3 * (place_y1 - place_y2))) == 0:
+    print("Ошибка: введенные координаты лежат на одной прямой. Введите верные координаты")
+    exit()
+
 length_a = math.sqrt((place_x2 - place_x1) ** 2 + (place_y2 - place_y1) ** 2)
 length_b = math.sqrt((place_x3 - place_x2) ** 2 + (place_y3 - place_y2) ** 2)
 length_c = math.sqrt((place_x3 - place_x1) ** 2 + (place_y3 - place_y1) ** 2)

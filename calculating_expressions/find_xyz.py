@@ -1,7 +1,7 @@
 x = 3 - (56 - 12) / 44 * (4/2)
 y = (2 * x) / (33 - x)
-z = -1 * x / (2 * y)
+z = -x / (2 * y)
 
-print(f"x = {x}")
+print(f"x =
 print(f"y = {y}")
 print(f"z = {z}")

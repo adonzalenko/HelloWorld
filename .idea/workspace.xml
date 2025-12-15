@@ -4,22 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7a2c35a-6b54-4d26-85b0-a35a9f62ce01" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/find_secret_line/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_type_name/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/get_type_name/get_type_name.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_def/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_def/calculate_average_begin_to_end.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_def/calculate_with_def.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_def/find_min_and_max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learn_def/only_even.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prime_numbers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_and_read/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_and_read/print_and_read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_numbers_break_continue/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/print_numbers_for/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperature_transfer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/temperature_transfer/temperature_transfer.py" afterDir="false" />
+    <list default="true" id="b7a2c35a-6b54-4d26-85b0-a35a9f62ce01" name="Changes" comment="Some commit">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +143,7 @@
     "Python.values_output.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "lecture__6",
+    "git-widget-placeholder": "Merging lecture__6",
     "last_opened_file_path": "C:/Users/user/Desktop/github/HelloWorld",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -203,6 +193,7 @@
       <workItem from="1765181881209" duration="6114000" />
       <workItem from="1765602806678" duration="518000" />
       <workItem from="1765603360011" duration="9801000" />
+      <workItem from="1765798708784" duration="696000" />
     </task>
     <task id="LOCAL-00001" summary="Убрала приведение к типу str, float">
       <option name="closed" value="true" />
@@ -356,7 +347,31 @@
       <option name="project" value="LOCAL" />
       <updated>1764848010500</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="so">
+      <option name="closed" value="true" />
+      <created>1765798748887</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1765798748887</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Some commit">
+      <option name="closed" value="true" />
+      <created>1765798773474</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765798773474</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Some commit">
+      <option name="closed" value="true" />
+      <created>1765798888240</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765798888240</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,9 +403,10 @@
     <MESSAGE value="убрала remainder, скорректировала проверку на високосность" />
     <MESSAGE value="Исправила" />
     <MESSAGE value="Готовы к проверке задачи 4 урока" />
-    <MESSAGE value="Some commit" />
     <MESSAGE value="Задачи урока 5 к проверке" />
-    <option name="LAST_COMMIT_MESSAGE" value="Задачи урока 5 к проверке" />
+    <MESSAGE value="ome" />
+    <MESSAGE value="Some commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/HelloWorld$print_and_read.coverage" NAME="print_and_read Coverage Results" MODIFIED="1765604133117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_and_read" />

@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a2c35a-6b54-4d26-85b0-a35a9f62ce01" name="Changes" comment="Some commit">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/HelloWorld.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order_cost/order_cost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overload/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_type_name/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/order_cost/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_type_name/get_type_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/overload/overload.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,6 +116,7 @@
     "Python.match_case.executor": "Run",
     "Python.math_isclose.executor": "Run",
     "Python.only_even.executor": "Run",
+    "Python.order_cost.executor": "Run",
     "Python.password.executor": "Run",
     "Python.prime_numbers.executor": "Run",
     "Python.print_and_read.executor": "Run",
@@ -143,7 +144,7 @@
     "Python.values_output.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging lecture__6",
+    "git-widget-placeholder": "lecture__6",
     "last_opened_file_path": "C:/Users/user/Desktop/github/HelloWorld",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

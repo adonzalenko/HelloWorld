@@ -1,16 +1,16 @@
 first_number = int(input('Введите начальное число: '))
 last_number = int(input('Введите конечное число: '))
-n = int(input('Введите количество чисел в ряду: '))
+number_of_numbers = int(input('Введите количество чисел в ряду: '))
 
 i = first_number
-k = len(str(last_number)) + 1
+line_length = len(str(last_number)) + 1
 count_in_current_row = 0
 
 while i <= last_number:
-    if count_in_current_row >= n:
+    if count_in_current_row >= number_of_numbers:
         print()
         count_in_current_row = 0
 
-    print(f'{i:>{k}}', end = '')
+    print(f'{i:>{line_length}}', end ='')
     i += 1
     count_in_current_row += 1

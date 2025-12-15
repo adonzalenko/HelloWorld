@@ -1,4 +1,4 @@
-last_number = int(input('Введите последнее число ряда: '))
+last_number = int(input('Введите последний член уравнения: '))
 
 i = 1
 series_sum = 0

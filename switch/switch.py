@@ -1,4 +1,3 @@
-import math
 
 number_1 = float(input("Введите первое число: "))
 number_2 = float(input("Введите второе число: "))

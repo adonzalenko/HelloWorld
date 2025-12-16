@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b7a2c35a-6b54-4d26-85b0-a35a9f62ce01" name="Changes" comment="Some commit">
+      <change afterPath="$PROJECT_DIR$/order_cost/order_cost.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/overload/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_type_name/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/order_cost/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/get_type_name/get_type_name.py" beforeDir="false" afterPath="$PROJECT_DIR$/overload/overload.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="lecture-3" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adonzalenko&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adonzalenko/HelloWorld.git&quot;,
+    &quot;accountId&quot;: &quot;1825cae9-b0c6-4fdd-90fb-e321c32409a8&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;adonzalenko&quot;,
+    &quot;repository&quot;: &quot;HelloWorld&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="34msnPoY9Idnnay83ISH1vSsHd4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.age.executor": "Run",
+    "Python.apartment_search.executor": "Run",
+    "Python.arithmetic_mean.executor": "Run",
+    "Python.beautiful_check.executor": "Run",
+    "Python.beef_cost.executor": "Run",
+    "Python.calculate.executor": "Run",
+    "Python.calculate_average_begin_to_end.executor": "Run",
+    "Python.calculate_with_def.executor": "Run",
+    "Python.change_10.executor": "Run",
+    "Python.circle_area.executor": "Run",
+    "Python.command_number.executor": "Run",
+    "Python.cutlet_cost.executor": "Run",
+    "Python.delivery.executor": "Run",
+    "Python.double_code.executor": "Run",
+    "Python.figure_in_number.executor": "Run",
+    "Python.find_circumference.executor": "Run",
+    "Python.find_date.executor": "Run",
+    "Python.find_max_if_else.executor": "Run",
+    "Python.find_max_ternary_operator.executor": "Run",
+    "Python.find_min_and_max.executor": "Run",
+    "Python.find_radius.executor": "Run",
+    "Python.find_secret_line.executor": "Run",
+    "Python.find_sector.executor": "Run",
+    "Python.find_xyz.executor": "Run",
+    "Python.get_type_name.executor": "Run",
+    "Python.greeting.executor": "Run",
+    "Python.leap_year.executor": "Run",
+    "Python.match_case.executor": "Run",
+    "Python.math_isclose.executor": "Run",
+    "Python.only_even.executor": "Run",
+    "Python.order_cost.executor": "Run",
+    "Python.password.executor": "Run",
+    "Python.prime_numbers.executor": "Run",
+    "Python.print_and_read.executor": "Run",
+    "Python.print_number_100_1_4.executor": "Run",
+    "Python.print_number_type.executor": "Run",
+    "Python.print_numbers.executor": "Run",
+    "Python.print_numbers_0_100.executor": "Run",
+    "Python.print_numbers_100_30.executor": "Run",
+    "Python.print_numbers_7_121.executor": "Run",
+    "Python.print_numbers_arithmetic_mean.executor": "Run",
+    "Python.print_numbers_break_30.executor": "Run",
+    "Python.print_numbers_continue.executor": "Run",
+    "Python.print_numbers_continue_while.executor": "Run",
+    "Python.print_numbers_hard.executor": "Run",
+    "Python.print_numbers_square.executor": "Run",
+    "Python.quadratic_equation.executor": "Run",
+    "Python.series_sum.executor": "Run",
+    "Python.sum_0_9.executor": "Run",
+    "Python.sum_3_21.executor": "Run",
+    "Python.sum_3_21_only_even.executor": "Debug",
+    "Python.sum_and_quantity_3_21_only_even.executor": "Run",
+    "Python.temperature_transfer.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.triangle_area.executor": "Run",
+    "Python.values_output.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "lecture__6",
+    "last_opened_file_path": "C:/Users/user/Desktop/github/HelloWorld",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\github\" />
+      <recent name="C:\Users\user\Desktop\github\HelloWorld\print_numbers_break_continue" />
+      <recent name="C:\Users\user\Desktop\github\HelloWorld" />
+      <recent name="C:\Users\user\Desktop\github\HelloWorld\match_case" />
+      <recent name="C:\Users\user\Desktop\github\HelloWorld\math" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7a2c35a-6b54-4d26-85b0-a35a9f62ce01" name="Changes" comment="" />
+      <created>1761830248589</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761830248589</updated>
+      <workItem from="1762691343774" duration="14078000" />
+      <workItem from="1763013233185" duration="336000" />
+      <workItem from="1763101663370" duration="776000" />
+      <workItem from="1764067730768" duration="8729000" />
+      <workItem from="1764139044003" duration="617000" />
+      <workItem from="1764473368606" duration="229000" />
+      <workItem from="1764506901837" duration="10735000" />
+      <workItem from="1764570746123" duration="14362000" />
+      <workItem from="1764695455542" duration="715000" />
+      <workItem from="1764696218935" duration="1429000" />
+      <workItem from="1764840129290" duration="7762000" />
+      <workItem from="1764944969717" duration="328000" />
+      <workItem from="1765181842192" duration="14000" />
+      <workItem from="1765181881209" duration="6114000" />
+      <workItem from="1765602806678" duration="518000" />
+      <workItem from="1765603360011" duration="9801000" />
+      <workItem from="1765798708784" duration="696000" />
+    </task>
+    <task id="LOCAL-00001" summary="Убрала приведение к типу str, float">
+      <option name="closed" value="true" />
+      <created>1762181075329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762181075329</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Убрала лишние переменные">
+      <option name="closed" value="true" />
+      <created>1762181664715</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762181664715</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Исправила название переменной">
+      <option name="closed" value="true" />
+      <created>1762181755441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762181755441</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Исправила решение расчета z">
+      <option name="closed" value="true" />
+      <created>1762181877857</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762181877857</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Решены новые задачи урок 3">
+      <option name="closed" value="true" />
+      <created>1762768487535</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762768487535</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Решены новые задачи урок 3">
+      <option name="closed" value="true" />
+      <created>1762769163617</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1762769163617</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Не готова для проверки.">
+      <option name="closed" value="true" />
+      <created>1762769379698</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1762769379698</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Готова для проверки">
+      <option name="closed" value="true" />
+      <created>1762837561548</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762837561548</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Добавила проверку на корректность ввода, исправила проверку на 11,12,13,14">
+      <option name="closed" value="true" />
+      <created>1764069855693</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1764069855693</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Добавила проверку на корректность ввода, исправила проверку на 11,12,13,14">
+      <option name="closed" value="true" />
+      <created>1764069918416</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1764069918416</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Поправила проверку високосного года.">
+      <option name="closed" value="true" />
+      <created>1764070307825</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1764070307826</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Использовала сравнение с эпсилон, а не с 0. Исправила логику проверки условий коэффициентов. А также сравнение дискриминанта. В уравнении поиска дикриминанта ошибочно стояли скобки.">
+      <option name="closed" value="true" />
+      <created>1764074660909</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1764074660909</updated>
+    </task>
+    <task id="LOCAL-00013" summary="убрала remainder, скорректировала проверку на високосность">
+      <option name="closed" value="true" />
+      <created>1764075286717</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1764075286717</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Исправила">
+      <option name="closed" value="true" />
+      <created>1764075884353</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1764075884353</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Исправила">
+      <option name="closed" value="true" />
+      <created>1764076402229</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1764076402229</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Готовы к проверке задачи 4 урока">
+      <option name="closed" value="true" />
+      <created>1764599842019</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1764599842019</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Some commit">
+      <option name="closed" value="true" />
+      <created>1764695748955</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1764695748955</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Some commit">
+      <option name="closed" value="true" />
+      <created>1764695806127</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1764695806127</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Задачи урока 5 к проверке">
+      <option name="closed" value="true" />
+      <created>1764848010500</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1764848010500</updated>
+    </task>
+    <task id="LOCAL-00020" summary="so">
+      <option name="closed" value="true" />
+      <created>1765798748887</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1765798748887</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Some commit">
+      <option name="closed" value="true" />
+      <created>1765798773474</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1765798773474</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Some commit">
+      <option name="closed" value="true" />
+      <created>1765798888240</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1765798888240</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Убрала приведение к типу str, float" />
+    <MESSAGE value="исправила опечатки" />
+    <MESSAGE value="Убрала лишние переменные" />
+    <MESSAGE value="Исправила название переменной" />
+    <MESSAGE value="Исправила решение расчета z" />
+    <MESSAGE value="Решены новые задачи урок 3" />
+    <MESSAGE value="Не готова для проверки." />
+    <MESSAGE value="Готова для проверки" />
+    <MESSAGE value="Добавила проверку на корректность ввода, исправила проверку на 11,12,13,14" />
+    <MESSAGE value="Поправила проверку високосного года." />
+    <MESSAGE value="Использовала сравнение с эпсилон, а не с 0. Исправила логику проверки условий коэффициентов. А также сравнение дискриминанта. В уравнении поиска дикриминанта ошибочно стояли скобки." />
+    <MESSAGE value="убрала remainder, скорректировала проверку на високосность" />
+    <MESSAGE value="Исправила" />
+    <MESSAGE value="Готовы к проверке задачи 4 урока" />
+    <MESSAGE value="Задачи урока 5 к проверке" />
+    <MESSAGE value="ome" />
+    <MESSAGE value="Some commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HelloWorld$print_and_read.coverage" NAME="print_and_read Coverage Results" MODIFIED="1765604133117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_and_read" />
+    <SUITE FILE_PATH="coverage/HelloWorld$arithmetic_mean.coverage" NAME="arithmetic_mean Coverage Results" MODIFIED="1764560187441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_while" />
+    <SUITE FILE_PATH="coverage/HelloWorld$find_date.coverage" NAME="find_date Coverage Results" MODIFIED="1764473568278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_date" />
+    <SUITE FILE_PATH="coverage/HelloWorld$sum_3_21_only_even.coverage" NAME="sum_3_21_only_even Coverage Results" MODIFIED="1764516289086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_while" />
+    <SUITE FILE_PATH="coverage/HelloWorld$temperature_transfer.coverage" NAME="temperature_transfer Coverage Results" MODIFIED="1765604825018" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/temperature_transfer" />
+    <SUITE FILE_PATH="coverage/HelloWorld$find_secret_line.coverage" NAME="find_secret_line Coverage Results" MODIFIED="1764845393006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/find_secret_line" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_100_30.coverage" NAME="print_numbers_100_30 Coverage Results" MODIFIED="1764840849646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_for" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_square.coverage" NAME="print_numbers_square Coverage Results" MODIFIED="1764841429781" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_for" />
+    <SUITE FILE_PATH="coverage/HelloWorld$apartment_search.coverage" NAME="apartment_search Coverage Results" MODIFIED="1764473397075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/apartment_search" />
+    <SUITE FILE_PATH="coverage/HelloWorld$calculate_average_begin_to_end.coverage" NAME="calculate_average_begin_to_end Coverage Results" MODIFIED="1765183969016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_dif" />
+    <SUITE FILE_PATH="coverage/HelloWorld$series_sum.coverage" NAME="series_sum Coverage Results" MODIFIED="1764575048297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/series_sum" />
+    <SUITE FILE_PATH="coverage/HelloWorld$only_even.coverage" NAME="only_even Coverage Results" MODIFIED="1765206287196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_dif" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_hard.coverage" NAME="print_numbers_hard Coverage Results" MODIFIED="1764596575375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_0_100.coverage" NAME="print_numbers_0_100 Coverage Results" MODIFIED="1764840714317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_for" />
+    <SUITE FILE_PATH="coverage/HelloWorld$password.coverage" NAME="password Coverage Results" MODIFIED="1764070835451" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/password" />
+    <SUITE FILE_PATH="coverage/HelloWorld$leap_year.coverage" NAME="leap_year Coverage Results" MODIFIED="1764075225392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/leap_year" />
+    <SUITE FILE_PATH="coverage/HelloWorld$sum_3_21.coverage" NAME="sum_3_21 Coverage Results" MODIFIED="1764513497370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_while" />
+    <SUITE FILE_PATH="coverage/HelloWorld$command_number.coverage" NAME="command_number Coverage Results" MODIFIED="1764509620658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/command_number" />
+    <SUITE FILE_PATH="coverage/HelloWorld$sum_and_quantity_3_21_only_even.coverage" NAME="sum_and_quantity_3_21_only_even Coverage Results" MODIFIED="1764514540915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_while" />
+    <SUITE FILE_PATH="coverage/HelloWorld$quadratic_equation.coverage" NAME="quadratic_equation Coverage Results" MODIFIED="1764074138632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/quadratic_equation" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_break_30.coverage" NAME="print_numbers_break_30 Coverage Results" MODIFIED="1764842108911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_for" />
+    <SUITE FILE_PATH="coverage/HelloWorld$age.coverage" NAME="age Coverage Results" MODIFIED="1764069789237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/age" />
+    <SUITE FILE_PATH="coverage/HelloWorld$math_isclose.coverage" NAME="math_isclose Coverage Results" MODIFIED="1764507510308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/math/isclose" />
+    <SUITE FILE_PATH="coverage/HelloWorld$match_case.coverage" NAME="match_case Coverage Results" MODIFIED="1764508084837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/match_case" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_7_121.coverage" NAME="print_numbers_7_121 Coverage Results" MODIFIED="1764840785943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_for" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_number_100_1_4.coverage" NAME="print_number_100_1_4 Coverage Results" MODIFIED="1764840949529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_for" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_continue.coverage" NAME="print_numbers_continue Coverage Results" MODIFIED="1764842395281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_break_continue" />
+    <SUITE FILE_PATH="coverage/HelloWorld$figure_in_number.coverage" NAME="figure_in_number Coverage Results" MODIFIED="1764599676010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/figure_in_number" />
+    <SUITE FILE_PATH="coverage/HelloWorld$triangle_area.coverage" NAME="triangle_area Coverage Results" MODIFIED="1764076376003" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/triange_area" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_arithmetic_mean.coverage" NAME="print_numbers_arithmetic_mean Coverage Results" MODIFIED="1764841979111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_for" />
+    <SUITE FILE_PATH="coverage/HelloWorld$prime_numbers.coverage" NAME="prime_numbers Coverage Results" MODIFIED="1764846603934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/prime_numbers" />
+    <SUITE FILE_PATH="coverage/HelloWorld$calculate_with_def.coverage" NAME="calculate_with_def Coverage Results" MODIFIED="1765183973404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_dif" />
+    <SUITE FILE_PATH="coverage/HelloWorld$find_min_and_max.coverage" NAME="find_min_and_max Coverage Results" MODIFIED="1765183977271" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_dif" />
+    <SUITE FILE_PATH="coverage/HelloWorld$get_type_name.coverage" NAME="get_type_name Coverage Results" MODIFIED="1765611479587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/get_type_name" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers.coverage" NAME="print_numbers Coverage Results" MODIFIED="1764592403919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers" />
+    <SUITE FILE_PATH="coverage/HelloWorld$sum_0_9.coverage" NAME="sum_0_9 Coverage Results" MODIFIED="1764513368864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_while" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_number_type.coverage" NAME="print_number_type Coverage Results" MODIFIED="1762691676141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/learn_if_else" />
+    <SUITE FILE_PATH="coverage/HelloWorld$print_numbers_continue_while.coverage" NAME="print_numbers_continue_while Coverage Results" MODIFIED="1764842535384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/print_numbers_break_continue" />
+  </component>
+</project>
